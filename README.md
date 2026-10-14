@@ -1,6 +1,6 @@
 # Hi! I'm a Data Analytics Graduate 👋
 
-I'm data analytics bachelor's degree graduate from Western Governors University with a background in healthcare. I'm interested in using data to find patterns, answer questions, and support better decision-making.
+I'm a data analytics graduate from Western Governors University with a background in healthcare. I'm interested in using data to find patterns, answer questions, and support better decision-making.
 
 My healthcare experience has given me a practical understanding of real-world data and the importance of accuracy, problem-solving, and clear communication. I'm now looking to apply those skills in a data analytics role.
 
